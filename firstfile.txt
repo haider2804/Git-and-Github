@@ -1,2 +1,3 @@
 Hello, Git!
 This is my second Git change
+This is the change made directly in the file through Github Console.
